@@ -1,0 +1,78 @@
+
+.navbar-collapse .container-fluid{
+    padding: 2rem 2.5rem;
+    border-bottom: 1px solid #55559c;
+}
+.navbar-collapse h4{
+    color: #4988b8;
+
+}
+
+.about {
+    float: right;
+    max-width: 30rem;
+    margin-right: 3rem;
+}
+
+
+.jumbotron {
+    padding-top: var(--jumbotron-padding-y);
+    padding-bottom: var(--jumbotron-padding-y);
+    margin-bottom: 0;
+    background-image: url('imgs/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ 
+}
+   
+
+
+.jumbotron-heading {
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+    
+
+}
+
+.album {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #c76a6a;
+}
+
+.card {
+    float: left;
+    width: 100%;
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 0;
+    background-color: blanchedalmond;
+}
+
+.card > image{
+    margin-bottom: .75rem;
+    max-width: 100%;
+}
+
+.card-text {
+    font-size: 85%;
+    font-style: italic;
+
+}
+
+.footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+}
+
+.footer p {
+    margin-bottom: .25rem;
+}
+
